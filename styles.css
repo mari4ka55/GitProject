@@ -130,6 +130,7 @@ p {
 .email-link {
   display: flex;
   justify-content: center;
+  text-align: center;
   color: var(--branding--color);
   font-size: 28px;
   text-decoration: none;
