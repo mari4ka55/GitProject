@@ -114,7 +114,7 @@ p {
 
 
 .homepage-link {
-  color: var(--primary-color);
+  color: var(--branding--color);
   text-align: center;
   display: block;
 }
@@ -130,7 +130,7 @@ p {
 .email-link {
   display: flex;
   justify-content: center;
-  color: var(--primary-color);
+  color: var(--branding--color);
   font-size: 28px;
   text-decoration: none;
 }
@@ -138,3 +138,4 @@ p {
 .email-link:hover {
   text-decoration: underline;
 }
+
