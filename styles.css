@@ -139,19 +139,6 @@ nav li.active a {
   margin: 10px;
 }
 
-.email-link {
-  display: flex;
-  justify-content: center;
-  text-align: center;
-  color: var(--branding--color);
-  font-size: 28px;
-  text-decoration: none;
-}
-
-.email-link:hover {
-  text-decoration: underline;
-}
-
   .text-center {
     text-align: center!important;
 }
